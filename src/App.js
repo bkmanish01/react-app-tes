@@ -1,15 +1,15 @@
 import './App.css';
-import 'antd/dist/antd.css';
+import Garage from './components/Example/Example/Example';
 
 
 function App() {
   return (
     <div className='App'>
-     <h1>Hello, this is my first react app!</h1>
-      <h2>What is Git?</h2>
-      <p>Programmer track code </p>
+     <h1>This is my first react app!</h1>
+     <Garage />
     </div>
   );
 }
+
 
 export default App;
