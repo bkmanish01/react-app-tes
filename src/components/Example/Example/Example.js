@@ -3,7 +3,7 @@ import './example.css';
 
 
 function Car(props){
-    return <h2>This is a {props.brand.model}!</h2>
+    return <h2>Hey, it's me {props.brand.model} car!</h2>
 }
 
 function Garage(){

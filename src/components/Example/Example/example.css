@@ -13,4 +13,10 @@
 }
 .props {
     background-color: grey;
+    border-radius: 20em;
+}
+.expense-item{
+    background-color: beige;
+    color: black;
+    border-radius: 20em;
 }
