@@ -1,0 +1,9 @@
+.loginForm {
+    background-color: gray;
+    border-radius: 20em;
+}
+.formTitle {
+    color: brown;
+    text-decoration:underline;
+    text-decoration-color: white;
+}
